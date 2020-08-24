@@ -3,7 +3,7 @@ ____
 
 [Click Here for syllabus](https://drive.google.com/file/d/1OnBUWHxKIa0ixTU8uKrWTGCE7HB3PbGl/view)
 
-### Note: Video Links are expired in two Days
+### Note: Video Links will expire in 2 days.
 ____
 #### Day 1(24-08-20)
 #### Day 1 Content
