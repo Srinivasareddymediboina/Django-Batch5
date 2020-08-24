@@ -1,0 +1,93 @@
+Goodevening to all:
+--------------------
+Important Instructions:
+-----------------------
+
+1. There will be a 2:00 hours session every day, and attendance is 
+   mandatory for all the sessions 
+   (Attendance will be taken directly from the GoToMeeting App).
+
+2. An exam will be conducted at the end of the course.
+
+3. Every Candidate should maintain 75% of attendance for the certificate.
+
+4. Every one should follow the gotomeeting name is given format 
+
+		Rollno-yourname-collegename
+
+
+
+
+
+
+
+
+
+
+
+Day Objectives:
+---------------
+python oops():
+
+1.class
+2.object
+3.constructors
+4.inheritance
+5.packages and modules
+
+class:
+
+it contains collection of variables and methods.
+	syntax:
+	 class class_name:
+
+method:
+-------
+if function is existed inside the class then we will call it as a method
+
+function:
+---------
+ it contains collection of statements
+- reusability
+- code optimization
+     def 
+
+object:
+ 
+it is a instance of class
+
+	syntax:
+            obj_name=class_name
+
+
+constructors:
+
+- the main advantage of constructor is without using object 
+we will call function
+
+syntax:
+     class class_name:
+	
+		def __init__(self) ->default
+		def __init__(self,a,b)-self(default),
+				a,b(extra,user values)
+		def __init__(a,b,self)
+
+default constructor:
+	def __init__(self)
+
+parametrized constructor:
+	def __init__(self,a,b)-self(default),
+				a,b(extra,user values)
+		def __init__(a,b,self)
+			
+
+
+
+
+
+
+
+
+
+
