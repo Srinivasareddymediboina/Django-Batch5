@@ -8,6 +8,6 @@ ____
 #### Day 1 Content
 - Installation of Python
 - Python Oop's
-  -- Class
-  -- Object
-  -- Constructors
+  - Class
+  - Object
+  - Constructors
