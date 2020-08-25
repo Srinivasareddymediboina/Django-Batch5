@@ -1,0 +1,61 @@
+Goodevening to all:
+===================
+Day Objectives:
+===============
+1.Packages and modules
+2.inheritance
+3.s/w requirements for django
+	python
+	django package
+
+		pip install django==3.0.5
+		
+	sublime editor
+
+
+package:
+
+it is a collection of modules
+
+
+module:
+
+it is a .py file
+
+it contains collection of functions and classes
+
+->for acessing modules we are using "import" keyword
+
+    -> import modulename(we can access the entire module)
+    -> from modulename import classname
+    -> from modulename import *
+
+builtin modules:
+================
+->import('modules')-returns entire builtin modules
+->import sys-returns information about python interpreter
+->import math
+->import datetime
+
+
+inheritance:
+===========
+
+we are trying to retrieve something properties from parent
+class to child class
+
+	class childclass(parentclass):
+
+types:
+
+single level:one parent class and one child class
+
+multi level:one or more parent classes and one or more 
+child classes
+
+multiple:more than one parent classes 
+only one child class
+
+hierarchical:
+hybrid:
+
