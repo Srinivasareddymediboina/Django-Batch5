@@ -23,4 +23,4 @@ ___
 - Installation of Sublime Text
 - Installation of Django
 
-#### Video Link [Click Here] (https://transcripts.gotomeeting.com/#/s/f47ef8f47c5a49522a1d425513cc357c10632690ed19d2c8592e09874cfb3fe2)
+#### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/f47ef8f47c5a49522a1d425513cc357c10632690ed19d2c8592e09874cfb3fe2)
