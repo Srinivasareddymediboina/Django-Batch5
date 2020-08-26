@@ -24,3 +24,14 @@ ___
 - Installation of Django
 
 #### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/f47ef8f47c5a49522a1d425513cc357c10632690ed19d2c8592e09874cfb3fe2)
+____
+
+#### Day 3(26-08-20)
+#### Day 3 Content
+
+- 1.Django introduction
+- 2.MVC & MVT
+- 3.Project Creation
+- 4.App Creation
+
+#### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b7da526bcfd65ddc0a62e604501cb0358beff2f833e69d772986b3759fd5f0ee)
