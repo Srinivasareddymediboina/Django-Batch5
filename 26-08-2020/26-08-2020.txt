@@ -1,0 +1,137 @@
+
+Goodevening to all:
+------------------
+Day Objectives:
+
+1.Django introduction
+2.MVC & MVT
+3.Project Creation
+4.App Creation
+
+
+
+
+
+
+
+
+Django introduction:
+====================
+python webframeworks:
+-> django
+->flask
+->web2py
+->cherrypy
+->bottle
+webframework:
+
+-designed to support the development of webapplications like
+   webservices
+   web resources
+   web API's
+what is django:
+==============
+by using django we can develop web frameworks or web applications
+
+it follows MVT architechure
+
+features:
+========
+-very fast
+-fully loaded
+-secure
+-scalable
+-opensource
+
+
+
+
+
+MVC(model view controller):
+---------------------------
+M:here we have to write logic related to db only
+V:we can write logic for user representation
+C:we can write both logic model and views
+
+MVT(model view template):
+M:store db connections
+V:it will be work like a controller
+T:store .html files
+
+Project Creation:
+-----------------
+Procedure:
+
+1.first we have to choose a specific location
+
+2.from that location we have to open command prompt
+
+3.in that cmd run a command for creating django project
+
+	i.e "django-admin startproject projectname"
+
+4.when i run this command it will generate two different files
+        -> first one is folder with name of project
+	->manage.py :by using this file we can run our django server
+	->__init__:
+	->settings.py:
+	->urls.py:
+	->wsgi(web service gateway interface):therse two files useful for hosting purpose
+	->asgi:(asynchronous server gateway interface)
+
+
+App Creation:
+------------
+procedure:
+
+1.before going to create your app first of all you have to check
+   where your manage.py is existed
+
+2.in that location only we are creating user  application
+
+3.in that purpose we are change our directory to manage.py file location
+
+       i.e cd projectname
+
+4.for creating user app we have to run a command 
+
+   	i.e "python manage.py startapp appname"
+
+5.it will generate few files
+
+	-> migrations: 
+	->__init__:
+	->admin.py:
+	->app.py: 
+	->models.py:
+	->test.py:
+	->views.py:
+ 
+
+
+
+6.after creating app we have to register our app in settings.py
+
+7. python manage.py runserver
+
+
+     localhost:8000/hi
+
+	o/p: hi welcome to django session
+
+-> path('urlname/',fn name,name of the url)
+
+
+
+HttpRequest:
+1.GET:if user sends request from url that means request type is "GET"
+
+2.POST:if the request is coming from html page then request type is "POST"
+
+
+task:
+======
+create one url with name is index
+->then you have to show response like
+
+     "hello yourname welcome to django session"
