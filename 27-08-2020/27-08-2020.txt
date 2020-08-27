@@ -1,0 +1,63 @@
+Goodevening to all:
+===================
+Day objectives:
+
+1.dynamic URL mapping
+2.Templates
+
+
+localhost:8000/hello/ruthu/678
+
+hai your name is :ruthu
+hai your roll no is:678
+
+
+
+
+
+
+
+
+dynamic url mapping:
+---------------------
+
+
+Templates:
+==========
+->it will store all .html files
+->we have to create templates folder inside our app
+->inside templates folder again we have to create one more folder with 
+app name
+->for accessing .html files we have to use render function
+     render(request,'html file loaction',{})
+
+tags:
+<h1>to<h6>
+<body>
+<form>
+
+
+<head>
+<title>
+<p>
+<br>
+<table>
+
+
+DTL(django template Language):
+-> we have to print values{{}}
+
+{% if condition %}
+{% endif %}
+
+{% for i in data %}
+{% endfor %}
+
+
+localhost:8000/register
+
+->click button -> "your record is added successfully"
+
+
+task:
+print the table by using templates
