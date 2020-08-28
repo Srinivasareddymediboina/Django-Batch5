@@ -42,3 +42,4 @@ ____
 - 2.Templates
 
 #### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/21b863f9fe99c311bebf25f3e6af6f4d0b038ef0a116d1a75c7ca7ddb80544a1)
+#### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/1c5c51d729fe3a3e8dcfec151221e035195d88f3c88f5afe7a1b01be5ffae023)
