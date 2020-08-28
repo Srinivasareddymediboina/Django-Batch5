@@ -1,0 +1,14 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>External Css</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'css/mystyle.css' %}">
+	<script type="text/javascript" src="{% static 'js/myjs.js' %}"></script>
+</head>
+<body>
+<h2 id="id1">hi welcome to static file handling</h2>
+<h2 id="id2">i am H2 tag</h2>
+<img src="{% static 'images/sdc.jpg' %}">
+</body>
+</html>

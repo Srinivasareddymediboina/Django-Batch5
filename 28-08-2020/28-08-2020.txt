@@ -1,0 +1,64 @@
+Goodevening to all:
+===================
+Day Objectives:
+---------------
+
+1.static file handling
+
+
+task: table printing
+
+localhost:8000/basic/5
+
+num*i=num*i
+[5*1=5
+5*2=10
+
+
+
+5*10=50]
+
+list method:
+append,extend
+
+i=[9,8,7,6,56,80]
+i.append(80)
+
+for v in i:
+print(v)
+
+
+
+
+
+
+
+
+
+Static file Handling
+===================
+
+- we have to create a static folder inside our app
+- in that folder we will store css,js and image files
+- for acessing those static files we have define 
+     STATIC_URL ='static' in settings.py
+- for loading this static file we to define a statement inside
+  templates(.html)
+      {% load static %}
+
+
+css:
+inline 
+internal-<style>
+external-<head><link> 
+
+{
+  color:bilue;
+}
+
+selectors types:
+class(.)
+id(#)
+universal
+descendant
+child combine
