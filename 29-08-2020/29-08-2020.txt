@@ -1,0 +1,38 @@
+Goodevening to all:
+-------------------
+->bootstrap in Django 
+
+	-> stlying purpose
+-we have to mentins links directly
+-second way is we have to download bootstrap files from respective source files
+those files are placed inside our static folder 
+
+card:
+it is a borderd box with some padding around its content..
+	header
+	content
+	footer
+<div class="card">
+
+<div class="card-body">
+
+contexual cards:
+
+if you want to mention bg color to the card
+	bg-primary
+	bg-secondary
+	bg-success
+	bg-info
+	bg-warning
+	bg-danger
+	bg-dark,bg-light
+
+admin:
+
+->superuser account
+	python manage.py createsuperuser
+
+username:admin
+email:admin@gmail.com
+password:*******
+confirmpassword:*******
