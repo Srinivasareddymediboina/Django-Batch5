@@ -33,8 +33,6 @@ ____
 - 2.MVC & MVT
 - 3.Project Creation
 - 4.App Creation
-
-#### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b7da526bcfd65ddc0a62e604501cb0358beff2f833e69d772986b3759fd5f0ee)
 ____
 #### Day 4(27-08-20)
 #### Day 4 Content
@@ -61,4 +59,14 @@ ____
 - Internal CSS
 
 - External CSS
+
+- JavaScript
+
 #### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/1c5c51d729fe3a3e8dcfec151221e035195d88f3c88f5afe7a1b01be5ffae023)
+____
+Day 6(29-08-20)
+Day 6 Content
+- Introduction of Bootstrap and Some examples
+- Introduction on Django Admin Page
+
+#### Video Link [Click Here]
