@@ -64,8 +64,8 @@ ____
 
 #### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/1c5c51d729fe3a3e8dcfec151221e035195d88f3c88f5afe7a1b01be5ffae023)
 ____
-Day 6(29-08-20)
-Day 6 Content
+#### Day 6(29-08-20)
+#### Day 6 Content
 - Introduction of Bootstrap and Some examples
 - Introduction on Django Admin Page
 
