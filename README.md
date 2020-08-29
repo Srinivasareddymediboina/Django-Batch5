@@ -66,7 +66,7 @@ ____
 ____
 #### Day 6(29-08-20)
 #### Day 6 Content
-- Introduction of Bootstrap and Some examples
-- Introduction on Django Admin Page
+- Introduction to Bootstrap and Some examples
+- Introduction to Django Admin Page
 
 #### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/27e56f061a899f0be120b71889dcf52c3a5e7a8033f56a27206122256b069063)
