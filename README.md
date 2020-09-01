@@ -89,29 +89,26 @@ ______
 ### Day 9(02-09-20)
 #### Concepts:
 
-=> Model Creation
-Databases:
-	mysql,postgresql,oracle,sqlite3,mongoDB
-By default, Django provides sqlite3 database engine.
+- Model Creation
+  - Databases:
+    mysql,postgresql,oracle,sqlite3,mongoDB
+    By default, Django provides sqlite3 database engine.
 
-Migrations:
--------------
-python manage.py makemigrations --> to generate interface file
-python manage.py migrate ---> to convert our model into db table
+- Migrations:
 
-Admin:
-======
-localhost:8000/admin (or) 127.0.0.1:8000/admin
-python manage.py createsuperuser
+  - python manage.py makemigrations --> to generate interface file
+  - python manage.py migrate ---> to convert our model into db table
 
-=> ORM:
-========
+- Admin:
+  - localhost:8000/admin (or) 127.0.0.1:8000/admin
+  - python manage.py createsuperuser
+
+- ORM:
 Object Relational Mapping
 CRUD:CREATE,RETRIEVE,UPDATE,DELETE
 python manage.py shell
-------
-CREATE:
-------
-->save()
--> create()
+
+- CREATE:
+  - save()
+  - create()
 ### Video Link[Video Link](https://transcripts.gotomeeting.com/#/s/b0270590c7cb0a78ec5a25df106c7a376433d9f0572a07533ed8b06879810b5f)
