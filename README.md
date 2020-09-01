@@ -72,9 +72,16 @@ ____
 #### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/27e56f061a899f0be120b71889dcf52c3a5e7a8033f56a27206122256b069063)
 
 ____
-#### Day 7(01-09-20)
+#### Day 7(31-08-20)
 #### Day 7 Content
 - Data Rendering from templates to views
 - Template Inheritance
 
 #### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5446ed4ab799893f6e55f761b5ff9cf8921ffdde5216794b9a5b2a7be5c5e0e7)
+______
+### Day 8(01-09-20)
+#### Content
+- Model Creation
+- SuperUser Creation
+- Admin App
+
