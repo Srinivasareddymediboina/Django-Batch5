@@ -40,7 +40,7 @@ ____
 - 2.Templates
   - Introduction to Html
 
-#### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/21b863f9fe99c311bebf25f3e6af6f4d0b038ef0a116d1a75c7ca7ddb80544a1)
+#### Video Link [Click Here]
 ____
 #### Day 5(28-08-20)
 #### Day 5 Content
@@ -62,14 +62,14 @@ ____
 
 - JavaScript
 
-#### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/1c5c51d729fe3a3e8dcfec151221e035195d88f3c88f5afe7a1b01be5ffae023)
+#### Video Link [Click Here]
 ____
 #### Day 6(29-08-20)
 #### Day 6 Content
 - Introduction to Bootstrap and Some examples
 - Introduction to Django Admin Page
 
-#### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/27e56f061a899f0be120b71889dcf52c3a5e7a8033f56a27206122256b069063)
+#### Video Link [Click Here]
 
 ____
 #### Day 7(31-08-20)
