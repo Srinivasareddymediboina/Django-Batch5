@@ -1,0 +1,30 @@
+DATE: 01-09-2020
+
+Concepts:
+==========
+=> Model Creation
+Databases:
+	mysql,postgresql,oracle,sqlite3,mongoDB
+By default, Django provides sqlite3 database engine.
+
+Migrations:
+-------------
+python manage.py makemigrations --> to generate interface file
+python manage.py migrate ---> to convert our model into db table
+
+Admin:
+======
+localhost:8000/admin (or) 127.0.0.1:8000/admin
+python manage.py createsuperuser
+
+=> ORM:
+========
+Object Relational Mapping
+CRUD:CREATE,RETRIEVE,UPDATE,DELETE
+python manage.py shell
+------
+CREATE:
+------
+->save()
+-> create()
+
