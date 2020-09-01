@@ -6,4 +6,4 @@ Concepts:
 => Template Inheritence,Template Blocks
 
 
-127.0.0.1:8000/student/home
+127.0.0.1:8000/student/register (or) localhost:8000/student/register
