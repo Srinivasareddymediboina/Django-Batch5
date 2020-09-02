@@ -79,14 +79,8 @@ ____
 
 #### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5446ed4ab799893f6e55f761b5ff9cf8921ffdde5216794b9a5b2a7be5c5e0e7)
 ______
-### Day 8(01-09-20)
-#### Content
-- Model Creation
-- SuperUser Creation
-- Admin App
-______
 
-### Day 9(02-09-20)
+### Day 8(01-09-20)
 #### Concepts:
 
 - Model Creation
