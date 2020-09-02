@@ -103,12 +103,4 @@ ______
   - localhost:8000/admin (or) 127.0.0.1:8000/admin
   - python manage.py createsuperuser
 
-- ORM:
-Object Relational Mapping
-CRUD:CREATE,RETRIEVE,UPDATE,DELETE
-python manage.py shell
-
-- CREATE:
-  - save()
-  - create()
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b0270590c7cb0a78ec5a25df106c7a376433d9f0572a07533ed8b06879810b5f)
