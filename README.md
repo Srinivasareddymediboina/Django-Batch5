@@ -98,3 +98,10 @@ ______
   - python manage.py createsuperuser
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b0270590c7cb0a78ec5a25df106c7a376433d9f0572a07533ed8b06879810b5f)
+____
+
+### Day 9(02-09-20)
+#### Concepts:
+- ORM(Object Relational Mapping)
+
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/d8df10eae0165c2d489413c4da02f3a421b267e931e1066bf116349861b21e53)
