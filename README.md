@@ -105,3 +105,9 @@ ____
 - ORM(Object Relational Mapping)
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/d8df10eae0165c2d489413c4da02f3a421b267e931e1066bf116349861b21e53)
+
+____
+### Day 10(03-09-20)
+#### Concepts:
+
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/921a2358e0dbedbd7aaf1db83d94fba95f2b2eab6001ab6a5fb01599dffc61a7)
