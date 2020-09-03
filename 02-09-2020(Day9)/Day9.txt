@@ -1,0 +1,65 @@
+DATE: 02-09-2020
+
+Concepts:
+===========
+Model Attributes:
+================
+null---> To store Null value in the database
+blank---> Not required field in form
+choices---> Dropdown(form,table)
+default---> To store a default value in database
+help_text---> To display some text in form
+
+
+Object Relational Mapping:
+===========================
+ORM Queries:
+=============
+CRUD: CREATE,RETRIEVE,UPDATE,DELETE
+
+->python manage.py shell
+
+Create:
+-----------
+save():
+-> create object: obj = modelname(field='value')
+                  obj.save()
+create():
+-> modelname.objects.create(field='value')
+
+Retrive:
+--------
+->model.objects.all() --> to get all the records
+->model.objects.get(field='value') --> to get a particular record
+->model.objects.filter(field='value') --> to retrieve all the records which matches the given query
+->model.objects.order_by("Name")
+->model.objects.all()[:n]
+->model.objects.filter(field='value')[:n]
+->model.objects.values(column_names) ---> to get particular column values
+
+Update:
+-------
+->update()
+modelname.objects.update(Field='new value') ---> to update all the records
+modelname.objects.filter(field='value').update('new value')
+->x = modelname.objects.get(Name=value)
+  x.Email = 'new_mail_id'
+  x.save()
+
+Delete:
+-------
+->delete()
+->model.objects.all().delete()
+->models.objects.get().delete()
+->models.objects.filter().delete()
+
+
+
+
+
+
+
+
+
+
+
