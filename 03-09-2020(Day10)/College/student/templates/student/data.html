@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Show Data</title>
+</head>
+<body>
+<table border=1>
+	<tr>
+		<th>First Name</th>
+		<th>Last Name</th>
+		<th>Age</th>
+		<th>Branch</th>
+		<th>Email</th>
+		
+	</tr>
+	{% for i in data %}
+	<tr>
+		<td>{{i.First_Name}}</td>
+		<td>{{i.Last_Name}}</td>
+		<td>{{i.Age}}</td>
+		<td>{{i.Branch}}</td>
+		<td>{{i.Email}}</td>
+	</tr>
+	{% endfor %}
+</table>
+
+</body>
+</html>

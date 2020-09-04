@@ -1,0 +1,32 @@
+{% extends 'student/navbar.html' %}
+
+<!-- {% block title %}
+Student Registration
+{% endblock %} -->
+
+{% block body %}
+<div class='container'>
+<h2 class='bg bg-success'>Student Registration Page</h2>
+<form action="{% url 'register' %}" method='POST'>
+	{% csrf_token %}
+	First Name : <input type="text" name="fname" class='form-control'><br>
+	Last Name : <input type="text" name="lname" class='form-control'><br>
+
+	Age : <input type="integer" name="age" class='form-control'><br>
+
+	<label>Branch:</label>
+	<select name = 'br' class='form-control'>
+		<option>-Select-</option>
+		<option>ECE</option>
+		<option>CSE</option>
+		<option>IT</option>
+		<option>MECH</option>
+		<option>CIVIL</option>
+	</select><br>
+
+	Email : <input type="email" name="mail" class='form-control'><br>
+
+	<input type="submit" name="submit" value='Register' class='form-control'>
+</form>
+</div>
+{% endblock %}
