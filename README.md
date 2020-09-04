@@ -113,3 +113,12 @@ ____
 - Template Inheritance
 - Template Blocks
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/921a2358e0dbedbd7aaf1db83d94fba95f2b2eab6001ab6a5fb01599dffc61a7)
+______
+### Day 11(04-09-20)
+#### Concepts:
+- CRUD Operations Continuation...
+  - Edit
+  - Delete
+### Video Link [Click Here]()
+
+
