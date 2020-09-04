@@ -1,0 +1,27 @@
+{% extends 'student/navbar.html' %}
+{% block title %}
+Student Data
+{% endblock %}
+{% block body %}
+<table class='table'>
+	<tr>
+		<th>First Name</th>
+		<th>Last Name</th>
+		<th>Age</th>
+		<th>Branch</th>
+		<th>Email</th>
+		
+	</tr>
+	{% for i in data %}
+	<tr>
+		<td>{{i.First_Name}}</td>
+		<td>{{i.Last_Name}}</td>
+		<td>{{i.Age}}</td>
+		<td>{{i.Branch}}</td>
+		<td>{{i.Email}}</td>
+		<td class='btn btn-success'><a style="color:white" href="{% url 'edit' i.id %}">Edit</a></td>
+		<td class='btn btn-danger'><a href="{% url 'delete' i.id %}">Delete</a></td>
+	</tr>
+	{% endfor %}
+</table>
+{% endblock %}

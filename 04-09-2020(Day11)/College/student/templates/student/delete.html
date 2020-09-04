@@ -1,0 +1,16 @@
+{% extends 'student/navbar.html' %}
+{% block title %}
+Delete Student {{data.First_Name}}
+{% endblock %}
+
+{% block body %}
+<script type="text/javascript">
+	s = confirm("Are you sure ?")
+	if(s==true){
+		location.href = "{% url 'confirm' data.id %}"
+	}
+	else{
+		location.href = "{% url 'show' %}"
+	}
+</script>
+{% endblock %}

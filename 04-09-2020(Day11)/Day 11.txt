@@ -1,0 +1,21 @@
+DATE: 04-09-2020
+
+Concepts:
+===========
+->CRUD Operations Cont..
+-->Edit
+-->Delete
+
+
+Student.objects.filter(Branch__in = ['ECE','CSE'])
+
+
+
+
+
+
+
+
+
+
+
