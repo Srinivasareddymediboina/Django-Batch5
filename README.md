@@ -108,6 +108,8 @@ ____
 
 ____
 ### Day 10(03-09-20)
-
-
+#### Concepts:
+- CREATE and RETRIEVE Data in Table through Views
+- Template Inheritance
+- Template Blocks
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/921a2358e0dbedbd7aaf1db83d94fba95f2b2eab6001ab6a5fb01599dffc61a7)
