@@ -119,6 +119,6 @@ ______
 - CRUD Operations Continuation...
   - Edit
   - Delete
-### Video Link [Click Here]()
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/0dacb92750d6f96d4be5236f604500c19ae013e7f9ca5bcc0d152742aa4fc93c)
 
 
