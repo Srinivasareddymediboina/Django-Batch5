@@ -77,7 +77,7 @@ ____
 - Data Rendering from templates to views
 - Template Inheritance
 
-#### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/5446ed4ab799893f6e55f761b5ff9cf8921ffdde5216794b9a5b2a7be5c5e0e7)
+
 ______
 
 ### Day 8(01-09-20)
@@ -97,7 +97,6 @@ ______
   - localhost:8000/admin (or) 127.0.0.1:8000/admin
   - python manage.py createsuperuser
 
-### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/b0270590c7cb0a78ec5a25df106c7a376433d9f0572a07533ed8b06879810b5f)
 ____
 
 ### Day 9(02-09-20)
