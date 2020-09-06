@@ -125,3 +125,16 @@ _____
 #### Concepts:
 - 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/79a1dbacbf4d4b133d800bc0dad373825e87373cf036e715545b86261ac724f4)
+_____
+
+- Srinivas Reddy's Meeting
+
+- Please join my meeting from your computer, tablet or smartphone.
+- https://www.gotomeet.me/172p1a0587cbit
+
+
+## Access Code: 709-510-005
+
+
+- New to GoToMeeting? Get the app now and be ready when your first meeting starts: 
+## https://global.gotomeeting.com/install/709510005
