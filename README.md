@@ -119,5 +119,9 @@ ______
   - Edit
   - Delete
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/0dacb92750d6f96d4be5236f604500c19ae013e7f9ca5bcc0d152742aa4fc93c)
+_____
 
-
+### Day 12(05-09-20)
+#### Concepts:
+- 
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/79a1dbacbf4d4b133d800bc0dad373825e87373cf036e715545b86261ac724f4)
