@@ -123,7 +123,7 @@ _____
 
 ### Day 12(05-09-20)
 #### Concepts:
-- 
+- Model Forms
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/79a1dbacbf4d4b133d800bc0dad373825e87373cf036e715545b86261ac724f4)
 _____
 ## New Meeting I'd for Monday Class
