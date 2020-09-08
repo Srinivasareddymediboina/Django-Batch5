@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register Page</title>
+</head>
+<body>
+	<center>
+	<h3>Registration Page</h3>	
+	<form action="{% url 'register' %}" method="POST">
+		{% csrf_token %}
+	FirstName:<br><input type="text" name="fname"><br><br>	
+	LastName:<br><input type="text" name="lname"><br><br>	
+	Username:<br><input type="text" name="username"><br><br>	
+	Email:<br><input type="email" name="email"><br><br>	
+	Dob:<br><input type="date" name="dob"><br><br>	
+	<br><input type="submit" name="submit">	
+
+	</form>
+	</center>
+
+</body>
+</html>
