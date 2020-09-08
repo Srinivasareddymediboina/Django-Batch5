@@ -13,6 +13,7 @@ class Library(models.Model):
 	
 	Book_Number = models.IntegerField()
 	Book_Name = models.CharField(max_length=50)
+	Book_Image=models.ImageField(upload_to='bookimage/',null=True)
 	Book_Author = models.CharField(max_length=30)
 	Department = models.CharField(max_length=10,choices=branches)
 	Publication_Date = models.DateField()

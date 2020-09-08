@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+<head>
+	<title>Register Page</title>
+	<link rel="stylesheet" type="text/css" href="{% static 'css/bootstrap.min.css' %}">
+	<script type="text/javascript" src='{% static "js/bootstrap.min.js" %}'></script>
+</head>
+<body>
+	<div class="container">
+				{% if messages %}
+				{% for i in messages %}
+					<div class="alert alert-{{ i.tags }}">{{ i }}</div>
+				{% endfor %}
+				{% endif %}
+			<div class="card">
+
+			<div class="card-header bg-secondary text-white">
+				<h1>Reistration Page</h1>
+			</div>
+			<div class="card-body">
+				<form action="{% url 'register' %}" method="POST" enctype="multipart/form-data">
+					{% csrf_token %}
+					{{ form.as_p }}
+				
+				
+			</div>
+			<div class="card-footer bg-secondary ">
+				<input type="submit" name="submit">
+				</form>
+				
+			</div>
+			
+		</div>
+		
+	</div>
+	
+	
+</body>
+</html>
