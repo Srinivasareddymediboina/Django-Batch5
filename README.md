@@ -138,3 +138,14 @@ _____
 
 - New to GoToMeeting? Get the app now and be ready when your first meeting starts: 
 ## https://global.gotomeeting.com/install/709510005
+
+_____
+### Day 13(07-09-20)
+#### Concepts
+- Forms in Django
+- Messages
+- Mysql Connection
+- Image Uploading
+
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/429d9014ab9e17b81f29285d8849255aa9d1cbc4942aa4d222c6e5806f287079)
+#### Video Link2 [Click Here](https://transcripts.gotomeeting.com/#/s/9fba55b5bb2213558f49b44a664e7023ca8bd79361e6cbbd58f577bcf11a75e3)
