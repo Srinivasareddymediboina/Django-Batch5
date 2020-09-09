@@ -156,3 +156,12 @@ _____
 - Email Sending
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/f6bbb25f30338f66f98214fe58856367a59ed59013d80a49fe7958a09c481dd5)
+_____
+
+### Day 15(09-09-20)
+#### Concepts
+- Login Validation
+- Forget Password
+- Change Password
+
+### Video Link [Click Here](
