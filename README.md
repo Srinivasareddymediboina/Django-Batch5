@@ -162,4 +162,4 @@ _____
 - Forget Password
 - Change Password
 
-### Video Link [Click Here](
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/ec3d31b316c5e9b11d6de10eb9cdf3586faad375754c0266cfaf298e64e375d5)
