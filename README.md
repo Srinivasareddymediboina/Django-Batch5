@@ -149,3 +149,10 @@ _____
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/429d9014ab9e17b81f29285d8849255aa9d1cbc4942aa4d222c6e5806f287079)
 #### Video Link2 [Click Here](https://transcripts.gotomeeting.com/#/s/9fba55b5bb2213558f49b44a664e7023ca8bd79361e6cbbd58f577bcf11a75e3)
+_____
+
+### Day 14(08-09-20)
+#### Concepts
+- Email Sending
+
+### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/f6bbb25f30338f66f98214fe58856367a59ed59013d80a49fe7958a09c481dd5)
