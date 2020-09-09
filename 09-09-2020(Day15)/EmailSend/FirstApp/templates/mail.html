@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mail Page</title>
+</head>
+<body>
+	<center>
+		<h3>Mail Sending Form</h3>
+			<form action="{% url 'mail' %}" method="POST" enctype="multipart/form-data">
+				{% csrf_token %}
+				ToMail:<br><input type="email" name="email"><br><br>
+				Subject:<br><input type="text" name="sub"><br><br>	
+				Message:<br><input type="text" name="msg"><br><br>	
+				File:<br><input type="file" name="file"><br><br>	
+				<br><input type="submit" name="send"><br>
+
+			</form>
+	</center>
+</body>
+</html>

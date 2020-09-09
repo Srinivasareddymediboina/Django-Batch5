@@ -21,4 +21,8 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('mail/',views.mail,name='mail'),
     path('register/',views.register,name='register'),
+    path('login/',views.login,name='login'),
+    path('forgetpwd/',views.forgetpwd,name='forgetpwd'),
+    path('changepwd/',views.changepwd,name='changepwd'),
+
 ]

@@ -1,4 +1,4 @@
-"""EamilSend URL Configuration
+"""EmailSend URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.0/topics/http/urls/
@@ -15,7 +15,14 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from FirstApp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('mail/',views.mail,name='mail'),
+    path('register/',views.register,name='register'),
+    path('login/',views.login,name='login'),
+    path('forgetpwd/',views.forgetpwd,name='forgetpwd'),
+    path('changepwd/',views.changepwd,name='changepwd'),
+
 ]

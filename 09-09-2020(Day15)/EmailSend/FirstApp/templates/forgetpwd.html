@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Forget Page</title>
+</head>
+<body>
+	<center>
+		<h3>Forget Page</h3>
+		<form action="{% url 'forgetpwd' %}" method="POST">
+			{% csrf_token %}
+			Email:<br><input type="email" name="email"><br><br>
+			<br><input type="submit" name="submit">
+		</form>
+	</center>
+
+</body>
+</html>
