@@ -103,7 +103,6 @@ ____
 #### Concepts:
 - ORM(Object Relational Mapping)
 
-### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/d8df10eae0165c2d489413c4da02f3a421b267e931e1066bf116349861b21e53)
 
 ____
 ### Day 10(03-09-20)
@@ -111,20 +110,19 @@ ____
 - CREATE and RETRIEVE Data in Table through Views
 - Template Inheritance
 - Template Blocks
-### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/921a2358e0dbedbd7aaf1db83d94fba95f2b2eab6001ab6a5fb01599dffc61a7)
 ______
 ### Day 11(04-09-20)
 #### Concepts:
 - CRUD Operations Continuation...
   - Edit
   - Delete
-### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/0dacb92750d6f96d4be5236f604500c19ae013e7f9ca5bcc0d152742aa4fc93c)
+
 _____
 
 ### Day 12(05-09-20)
 #### Concepts:
 - Model Forms
-### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/79a1dbacbf4d4b133d800bc0dad373825e87373cf036e715545b86261ac724f4)
+
 _____
 ## New Meeting I'd for Monday Class
 - Srinivas Reddy's Meeting
