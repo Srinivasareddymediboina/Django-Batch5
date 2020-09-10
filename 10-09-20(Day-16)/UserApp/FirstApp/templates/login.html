@@ -1,0 +1,19 @@
+{% include 'navbar.html' %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Login Page</title>
+</head>
+<body>
+<center>
+	<h3>Login Page</h3>
+	<form method="POST">
+		{% csrf_token %}
+		{{ form.as_p }}
+		<input type="submit" name="submit">
+	</form>
+</center>
+</body>
+</html>
+{% endblock content %}

@@ -1,0 +1,21 @@
+{% include 'navbar.html' %}
+{% block content %}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Register Page</title>
+</head>
+<body>
+
+	<form action="{% url 'register' %}" method="POST">
+		{% csrf_token %}
+		{{ form.as_p }}	
+		<input type="submit" name="submit">	
+	</form>
+		
+
+
+</body>
+</html>
+
+{% endblock content %}
