@@ -170,3 +170,20 @@ ____
 - User Authentication
 
 ### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/41e706ba6c4d5ad0112b5a12f1216c3a4ec063256f77e86945ea3cff3627f332)
+____
+### Day 17(11-09-20)
+#### Concepts
+- User Profile Creation
+- Attendance
+- Installations for heroku hosting
+### Video Link[ Click Here]
+
+- 1.Github Account Registration
+- 2.Git Bash
+- https://git-scm.com/download/win
+- 3.Heroku Account Registration
+- 4.Heroku installation
+- https://devcenter.heroku.com/articles/getting-started-with-python#set-up
+
+
+
