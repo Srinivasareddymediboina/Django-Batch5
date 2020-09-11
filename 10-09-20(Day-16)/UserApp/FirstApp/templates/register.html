@@ -6,16 +6,20 @@
 	<title>Register Page</title>
 </head>
 <body>
-
+	<center>
+		<h2>Registration Page</h2>
 	<form action="{% url 'register' %}" method="POST">
 		{% csrf_token %}
-		{{ form.as_p }}	
-		<input type="submit" name="submit">	
+		UserName<br>{{ form.username }}<br>
+		FirstName<br>{{ form.first_name }}<br>
+		LastName<br>{{ form.last_name }}<br>
+		Email<br>{{ form.email }}<br>
+		Password<br>{{ form.password1 }}<br>
+		Confirm Password<br>{{ form.password2 }}<br>
+		<br><input type="submit" name="submit">	
 	</form>
+	</center>
 		
-
-
 </body>
 </html>
-
 {% endblock content %}

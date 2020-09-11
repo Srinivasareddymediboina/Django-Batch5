@@ -1,6 +1,9 @@
 from django.shortcuts import render
 from FirstApp.forms import MyForm
 from django.http import HttpResponse
+from django.contrib.auth.models import User
+
+from django.contrib.auth.decorators import login_required
 # Create your views here.
 def home(request):
 
@@ -17,3 +20,8 @@ def register(request):
 			
 	form=MyForm()
 	return render(request,'register.html',{'form':form})
+	
+@login_required
+def profile(request,id):
+	data=User.objects.get(id=id)
+	return render(request,'profile.html',{'data':data})

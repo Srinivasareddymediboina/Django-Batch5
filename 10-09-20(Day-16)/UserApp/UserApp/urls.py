@@ -25,5 +25,5 @@ urlpatterns = [
     path('register/',views.register,name='register'),
     path('login/',uv.LoginView.as_view(template_name='login.html'),name='login'),
     path('logout/',uv.LogoutView.as_view(template_name='logout.html'),name='logout'),
-
+    path('profile/<int:id>/',views.profile, name='profile'),
 ]
