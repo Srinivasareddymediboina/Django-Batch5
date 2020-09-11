@@ -178,6 +178,7 @@ ____
 - Installations for heroku hosting
 ### Video Link[ Click Here]
 
+#### Requirements for hosting
 - 1.Github Account Registration
 - 2.Git Bash
 - https://git-scm.com/download/win
