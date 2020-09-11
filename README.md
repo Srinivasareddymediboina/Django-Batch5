@@ -163,3 +163,10 @@ _____
 - Change Password
 
 ### Video Link [Click Here](https://transcripts.gotomeeting.com/#/s/ec3d31b316c5e9b11d6de10eb9cdf3586faad375754c0266cfaf298e64e375d5)
+____
+
+### Day 16(10-09-20)
+#### Concepts
+- User Authentication
+
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/41e706ba6c4d5ad0112b5a12f1216c3a4ec063256f77e86945ea3cff3627f332)
