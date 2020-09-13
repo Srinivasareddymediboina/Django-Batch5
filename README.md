@@ -176,14 +176,19 @@ ____
 - User Profile Creation
 - Attendance
 - Installations for heroku hosting
-### Video Link[ Click Here]
+### Video Link[ Click Here](https://transcripts.gotomeeting.com/#/s/acbe14259e5b971d42520ccadafd332ac40772c331c85ad7e44796c9efc40eb0)
 
+#### Requirements for hosting
 - 1.Github Account Registration
 - 2.Git Bash
 - https://git-scm.com/download/win
 - 3.Heroku Account Registration
 - 4.Heroku installation
 - https://devcenter.heroku.com/articles/getting-started-with-python#set-up
+
+### Day 18(12-09-20)
+### Concepts
+- Project Deploying
 
 
 
