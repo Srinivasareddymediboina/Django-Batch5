@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.0/ref/settings/
 """
 
 import os
+import django_heroku
 
 # Build paths inside the project like this: os.path.join(BASE_DIR, ...)
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -76,8 +77,13 @@ WSGI_APPLICATION = 'UserApp.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': 'ddv43cd2i1je9d',
+        'PORT':'5432',
+        'USER':'xuguoszlfadfcc',
+        'HOST':'ec2-3-226-231-4.compute-1.amazonaws.com',
+        'PASSWORD':'45ea1070a2fcfab2c49991332985ab0417cd2219fd8e9de2078b81621d8610c4',
+
     }
 }
 
@@ -114,6 +120,7 @@ USE_L10N = True
 
 USE_TZ = True
 
+django_heroku.settings(locals())
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
