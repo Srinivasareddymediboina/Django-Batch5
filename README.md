@@ -185,10 +185,12 @@ ____
 - 3.Heroku Account Registration
 - 4.Heroku installation
 - https://devcenter.heroku.com/articles/getting-started-with-python#set-up
-
+____
 ### Day 18(12-09-20)
 ### Concepts
 - Project Deploying
 
-
+### Payment Gateway Videos
+- https://youtu.be/Z5dBopZWOzo
+- https://youtu.be/8rMfW4wO-vU
 
