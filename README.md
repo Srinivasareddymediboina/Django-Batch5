@@ -186,5 +186,9 @@ ____
 - 4.Heroku installation
 - https://devcenter.heroku.com/articles/getting-started-with-python#set-up
 
+### Day 18(12-09-20)
+### Concepts
+- Project Deploying
+
 
 
